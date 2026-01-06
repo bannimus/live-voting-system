@@ -1,5 +1,3 @@
-
-```markdown
 # 🗳️ Live Voting System / Canlı Oylama Sistemi
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -175,7 +173,3 @@ npm run dev
 ### 👤 Author / Yazar
 
 Developed by **[bannimus@gmail.com]**
-
-```
-
-```
